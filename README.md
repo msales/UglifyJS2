@@ -1,4 +1,10 @@
-UglifyJS 3
+#### How to install:
+npm install -g https://github.com/msales/UglifyJS2/tarball/master
+
+#### How to use
+Add extra parameter --seed <number> to the original parameters, without it the frequency sorting will be used
+
+Original documentation: UglifyJS 3
 ==========
 
 UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
