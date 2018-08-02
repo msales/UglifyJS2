@@ -2,7 +2,11 @@
 npm install -g https://github.com/msales/UglifyJS2/tarball/master
 
 #### How to use
-Add extra parameter --seed <number> to the original parameters, without it the frequency sorting will be used
+Add extra parameter to the original parameters, without it the frequency sorting will be used
+```
+    --seed <number>
+```
+
 
 Original documentation: UglifyJS 3
 ==========
