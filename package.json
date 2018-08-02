@@ -1,20 +1,19 @@
 {
-  "name": "uglify-js",
-  "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
-  "author": "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)",
+  "name": "uglify-js-seed",
+  "description": "Fork from UgligyJS",
+  "author": "Msales",
   "license": "BSD-2-Clause",
-  "version": "3.4.6",
+  "version": "1.0.0",
   "engines": {
     "node": ">=0.8.0"
   },
   "maintainers": [
-    "Alex Lam <alexlamsl@gmail.com>",
-    "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)"
+    "Msales <alejandro.ruiz.villegas@msales.com"
   ],
-  "repository": "mishoo/UglifyJS2",
+  "repository": "msales/UglifyJS2",
   "main": "tools/node.js",
   "bin": {
-    "uglifyjs": "bin/uglifyjs"
+    "uglifyjs-seed": "bin/uglifyjs-seed"
   },
   "files": [
     "bin",
